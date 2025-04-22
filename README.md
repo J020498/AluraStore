@@ -1,8 +1,9 @@
-
 ✅ El propósito del análisis realizado
+<br>
 Analizar el rendimiento financiero de las cuatro tiendas gestionadas por el Sr. Juan, con el propósito de identificar cuáles de ellas generan menores ganancias. Esta información permitirá tomar decisiones estratégicas sobre una posible venta del negocio menos rentable y la reinversión de recursos en una nueva oportunidad comercial.
 
 🔧 La estructura del proyecto y organización de los archivos
+<br>
 Facturación por tienda: Comparar los ingresos generados por cada tienda en un periodo determinado.
 
 Productos más vendidos por categoría: Identificar los productos con mayor rotación en cada categoría para conocer patrones de consumo.
@@ -16,6 +17,7 @@ Costo promedio de envío por tienda: Calcular el gasto logístico por unidad ven
 🧠 Resultado esperado: Al obtener una visión clara y comparativa del rendimiento de cada tienda, me permitio identificar que la Tienda 4 presenta menor rentabilidad, motivo por el cual es posible su venta y la reinversión de los recursos.
 
 📊 Ejemplos de gráficos e insights obtenidos
+<br>
 Esta información podrá visualizarse en el archivo AluraStoreLatam , el cual se encuentra adjunto en el repositorio.
 
 ▶️ Instrucciones para ejecutar el notebook
@@ -25,7 +27,7 @@ Esta información podrá visualizarse en el archivo AluraStoreLatam , el cual se
 2. Cargar el archivoAluraStoreLatam.ipynb
    Descargue el archivo desde el repositorio de GitHub
 
-3.Ejecutar todas las celdas del cuaderno
+3. Ejecutar todas las celdas del cuaderno
   Haz clic en “Runtime” > “Ejecutar todo” ( o "(o "Entorno de ejecución" > "Ejecutar todas") para procesar los datos y generar los análisis automáticamente
   
 4. Explorar los gráficos y resultados
@@ -35,5 +37,6 @@ Esta información podrá visualizarse en el archivo AluraStoreLatam , el cual se
    * Calificaciones promedio de los clientes
    * Productos más y menos vendidos por tienda
    * Costo promedio de envío
+   <br>
    Los gráficos te ayudarán a identificar visualmente cuál tienda presenta menor rentabilidad.
 
